@@ -30,7 +30,7 @@
     "classnames": "^2.2.6",
     "daterangepicker": "^3.0.3",
     "detect-passive-events": "^1.0.4",
-    "dropzone": "^5.5.1",
+    "dropzone": "^5.8.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.0",
     "jquery-sparkline": "^2.4.0",
