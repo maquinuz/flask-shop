@@ -1,5 +1,5 @@
 ### Build and install packages
-FROM python:3.8
+FROM python:3.10.0b2
 
 # Install Python dependencies
 COPY requirements.txt /app/
