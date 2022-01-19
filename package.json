@@ -44,7 +44,7 @@
     "node-gyp": "^6.1.0",
     "owl.carousel": "^2.3.4",
     "popper.js": "^1.14.3",
-    "react": "^16.4.1",
+    "react": "^16.5.0",
     "react-dom": "^16.4.2",
     "scss-loader": "0.0.1",
     "select2": "^4.0.6-rc.1",
