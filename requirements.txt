@@ -28,7 +28,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.1
 jsonschema==3.2.0
 libgravatar==0.2.3
-Mako==1.1.1
+Mako==1.2.2
 MarkupSafe==1.1.1
 phonenumbers==8.11.3
 pluggy==0.13.1
