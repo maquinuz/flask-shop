@@ -33,7 +33,7 @@ MarkupSafe==1.1.1
 phonenumbers==8.11.3
 pluggy==0.13.1
 pycparser==2.19
-pycryptodomex==3.9.4
+pycryptodomex==3.19.1
 PyMySQL==0.9.3
 pyOpenSSL==19.1.0
 pyrsistent==0.15.7
